@@ -1408,7 +1408,7 @@ class IsoCountryCodes
     end
     class GBR < Code #:nodoc:
       self.numeric = %q{826}
-      self.name    = %q{United Kingdom of Great Britain and Northern Ireland}
+      self.name    = %q{United Kingdom}
       self.alpha2  = %q{GB}
       self.alpha3  = %q{GBR}
     end
