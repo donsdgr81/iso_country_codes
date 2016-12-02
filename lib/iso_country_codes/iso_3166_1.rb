@@ -328,7 +328,7 @@ class IsoCountryCodes
     end
     class CIV < Code #:nodoc:
       self.numeric = %q{384}
-      self.name    = %q{Côte d'Ivoire}
+      self.name    = %q{Cote d'Ivoire}
       self.alpha2  = %q{CI}
       self.alpha3  = %q{CIV}
     end
@@ -1084,7 +1084,7 @@ class IsoCountryCodes
     end
     class REU < Code #:nodoc:
       self.numeric = %q{638}
-      self.name    = %q{Réunion}
+      self.name    = %q{Reunion}
       self.alpha2  = %q{RE}
       self.alpha3  = %q{REU}
     end
