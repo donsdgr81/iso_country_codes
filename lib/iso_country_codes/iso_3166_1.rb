@@ -10,7 +10,7 @@ class IsoCountryCodes
     end
     class ALA < Code #:nodoc:
       self.numeric = %q{248}
-      self.name    = %q{Åland Islands}
+      self.name    = %q{Aland Islands}
       self.alpha2  = %q{AX}
       self.alpha3  = %q{ALA}
     end
