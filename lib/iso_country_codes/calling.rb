@@ -384,9 +384,6 @@ class IsoCountryCodes
     class COM < Code #:nodoc:
       self.calling = '+269'
     end
-    class UMI < Code #:nodoc:
-      self.calling = '+1'
-    end
     class USA < Code #:nodoc:
       self.calling = '+1'
     end

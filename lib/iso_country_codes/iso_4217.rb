@@ -384,9 +384,6 @@ class IsoCountryCodes
     class COM < Code #:nodoc:
       self.main_currency = 'KMF'
     end
-    class UMI < Code #:nodoc:
-      self.main_currency = 'USD'
-    end
     class USA < Code #:nodoc:
       self.main_currency = 'USD'
     end

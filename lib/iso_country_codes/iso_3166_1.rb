@@ -1418,12 +1418,6 @@ class IsoCountryCodes
       self.alpha2  = %q{US}
       self.alpha3  = %q{USA}
     end
-    class UMI < Code #:nodoc:
-      self.numeric = %q{581}
-      self.name    = %q{United States Minor Outlying Islands}
-      self.alpha2  = %q{UM}
-      self.alpha3  = %q{UMI}
-    end
     class URY < Code #:nodoc:
       self.numeric = %q{858}
       self.name    = %q{Uruguay}

@@ -1,3 +1,7 @@
+## 0.7.7
+
+* Remove UMA
+
 ## 0.7.6
 
 * Remove special character in names for compatibility
