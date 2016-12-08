@@ -346,7 +346,7 @@ class IsoCountryCodes
     end
     class CUW < Code #:nodoc:
       self.numeric = %q{531}
-      self.name    = %q{Curaçao}
+      self.name    = %q{Curacao}
       self.alpha2  = %q{CW}
       self.alpha3  = %q{CUW}
     end
