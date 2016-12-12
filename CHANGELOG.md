@@ -1,3 +1,7 @@
+## 0.7.9
+
+* Change USA
+
 ## 0.7.8
 
 * Remove special character in names for compatibility

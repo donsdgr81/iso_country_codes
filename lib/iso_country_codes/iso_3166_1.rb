@@ -1414,7 +1414,7 @@ class IsoCountryCodes
     end
     class USA < Code #:nodoc:
       self.numeric = %q{840}
-      self.name    = %q{United States of America}
+      self.name    = %q{United States}
       self.alpha2  = %q{US}
       self.alpha3  = %q{USA}
     end
